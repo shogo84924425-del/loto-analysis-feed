@@ -1,10 +1,17 @@
 name: Update lottery forecast feed
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - scripts/publish.py
+      - tests/test_publish.py
+      - .github/workflows/publish.yml
   schedule:
     # UTC; Japan time 05:07, 05:17, 05:27, 05:47 each day.
     - cron: '7,17,27,47 20 * * *'
-    # UTC; Japan time 06:07, 20:37.
+    # UTC; Japan time 06:07 and 20:37.
     - cron: '7 21 * * *'
     - cron: '37 11 * * *'
 permissions:
