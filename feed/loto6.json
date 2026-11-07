@@ -1,0 +1,73 @@
+{
+  "analysisEndIssue": 2152,
+  "analysisStartIssue": 2053,
+  "game": "loto6",
+  "mirroredAt": "2026-11-07T06:06:02Z",
+  "predictions": [
+    {
+      "label": "A",
+      "numbers": [
+        1,
+        15,
+        18,
+        24,
+        30,
+        35
+      ]
+    },
+    {
+      "label": "B",
+      "numbers": [
+        6,
+        8,
+        18,
+        27,
+        28,
+        35
+      ]
+    },
+    {
+      "label": "C",
+      "numbers": [
+        10,
+        13,
+        14,
+        19,
+        37,
+        38
+      ]
+    },
+    {
+      "label": "D",
+      "numbers": [
+        2,
+        5,
+        17,
+        29,
+        32,
+        42
+      ]
+    },
+    {
+      "label": "E",
+      "numbers": [
+        4,
+        7,
+        11,
+        25,
+        34,
+        41
+      ]
+    }
+  ],
+  "purchaseCutoffOfficiallyVerified": false,
+  "scheduleVerification": "UNOFFICIAL_ESTIMATE",
+  "schemaVersion": 1,
+  "sixChecksComplete": true,
+  "sourceCheckedAt": "2026-11-07T06:00:28.123Z",
+  "status": "SUCCESS",
+  "targetDrawDate": "2026-11-09",
+  "targetIssue": 2153,
+  "verificationLevel": "SECONDARY_CROSSCHECK_100",
+  "verified100": true
+}
