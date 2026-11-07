@@ -4,7 +4,7 @@
       "analysisEndIssue": 2152,
       "analysisStartIssue": 2053,
       "game": "loto6",
-      "mirroredAt": "2026-11-07T06:06:02Z",
+      "mirroredAt": "2026-11-07T06:06:20Z",
       "predictions": [
         {
           "label": "A",
@@ -77,7 +77,7 @@
       "analysisEndIssue": 702,
       "analysisStartIssue": 603,
       "game": "loto7",
-      "mirroredAt": "2026-11-07T06:06:02Z",
+      "mirroredAt": "2026-11-07T06:06:20Z",
       "predictions": [
         {
           "label": "A",
@@ -152,6 +152,6 @@
       "verified100": true
     }
   },
-  "mirroredAt": "2026-11-07T06:06:02Z",
+  "mirroredAt": "2026-11-07T06:06:20Z",
   "schemaVersion": 1
 }
