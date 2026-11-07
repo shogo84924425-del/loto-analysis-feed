@@ -1,0 +1,37 @@
+name: Update lottery forecast feed
+on:
+  workflow_dispatch:
+  schedule:
+    # UTC; Japan time 05:07, 05:17, 05:27, 05:47 each day.
+    - cron: '7,17,27,47 20 * * *'
+    # UTC; Japan time 06:07, 20:37.
+    - cron: '7 21 * * *'
+    - cron: '37 11 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: loto-feed-publisher
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Validate publishing code
+        run: python3 -m unittest discover -s tests -v
+      - name: Retrieve and validate Cloudflare analysis
+        run: python3 scripts/publish.py
+      - name: Commit public JSON data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed/loto6.json feed/loto7.json feed/latest.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: update validated lottery feed"
+            git push
+          fi
