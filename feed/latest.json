@@ -1,24 +1,88 @@
 {
   "games": {
     "loto6": {
-      "error": "WORKER_UNAVAILABLE_OR_FAILED",
+      "analysisEndIssue": 2153,
+      "analysisStartIssue": 2054,
       "game": "loto6",
-      "mirroredAt": "2026-11-10T20:45:33Z",
-      "predictions": [],
+      "mirroredAt": "2026-11-10T21:25:53Z",
+      "predictions": [
+        {
+          "label": "A",
+          "numbers": [
+            7,
+            8,
+            17,
+            24,
+            37,
+            43
+          ]
+        },
+        {
+          "label": "B",
+          "numbers": [
+            1,
+            13,
+            14,
+            20,
+            37,
+            42
+          ]
+        },
+        {
+          "label": "C",
+          "numbers": [
+            3,
+            5,
+            6,
+            35,
+            40,
+            41
+          ]
+        },
+        {
+          "label": "D",
+          "numbers": [
+            2,
+            11,
+            19,
+            27,
+            36,
+            38
+          ]
+        },
+        {
+          "label": "E",
+          "numbers": [
+            9,
+            10,
+            18,
+            31,
+            32,
+            33
+          ]
+        }
+      ],
+      "purchaseCutoffOfficiallyVerified": false,
+      "scheduleVerification": "UNOFFICIAL_ESTIMATE",
       "schemaVersion": 1,
-      "sourceHttpStatus": 503,
-      "status": "FAILED"
+      "sixChecksComplete": true,
+      "sourceCheckedAt": "2026-11-10T21:00:28.328Z",
+      "status": "SUCCESS",
+      "targetDrawDate": "2026-11-12",
+      "targetIssue": 2154,
+      "verificationLevel": "SECONDARY_CROSSCHECK_100",
+      "verified100": true
     },
     "loto7": {
       "error": "WORKER_UNAVAILABLE_OR_FAILED",
       "game": "loto7",
-      "mirroredAt": "2026-11-10T20:45:33Z",
+      "mirroredAt": "2026-11-10T21:25:53Z",
       "predictions": [],
       "schemaVersion": 1,
       "sourceHttpStatus": 503,
       "status": "FAILED"
     }
   },
-  "mirroredAt": "2026-11-10T20:45:33Z",
+  "mirroredAt": "2026-11-10T21:25:53Z",
   "schemaVersion": 1
 }
