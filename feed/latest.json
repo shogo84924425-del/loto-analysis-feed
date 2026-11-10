@@ -4,7 +4,7 @@
       "analysisEndIssue": 2153,
       "analysisStartIssue": 2054,
       "game": "loto6",
-      "mirroredAt": "2026-11-10T21:25:53Z",
+      "mirroredAt": "2026-11-10T21:44:27Z",
       "predictions": [
         {
           "label": "A",
@@ -76,13 +76,13 @@
     "loto7": {
       "error": "WORKER_UNAVAILABLE_OR_FAILED",
       "game": "loto7",
-      "mirroredAt": "2026-11-10T21:25:53Z",
+      "mirroredAt": "2026-11-10T21:44:27Z",
       "predictions": [],
       "schemaVersion": 1,
       "sourceHttpStatus": 503,
       "status": "FAILED"
     }
   },
-  "mirroredAt": "2026-11-10T21:25:53Z",
+  "mirroredAt": "2026-11-10T21:44:27Z",
   "schemaVersion": 1
 }
