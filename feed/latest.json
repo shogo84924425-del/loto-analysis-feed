@@ -3,7 +3,7 @@
     "loto6": {
       "error": "WORKER_UNAVAILABLE_OR_FAILED",
       "game": "loto6",
-      "mirroredAt": "2026-11-12T12:32:17Z",
+      "mirroredAt": "2026-11-12T20:50:15Z",
       "predictions": [],
       "schemaVersion": 1,
       "sourceHttpStatus": 503,
@@ -12,13 +12,13 @@
     "loto7": {
       "error": "WORKER_UNAVAILABLE_OR_FAILED",
       "game": "loto7",
-      "mirroredAt": "2026-11-12T12:32:17Z",
+      "mirroredAt": "2026-11-12T20:50:15Z",
       "predictions": [],
       "schemaVersion": 1,
       "sourceHttpStatus": 503,
       "status": "FAILED"
     }
   },
-  "mirroredAt": "2026-11-12T12:32:17Z",
+  "mirroredAt": "2026-11-12T20:50:15Z",
   "schemaVersion": 1
 }
