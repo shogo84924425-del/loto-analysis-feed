@@ -4,7 +4,7 @@
       "analysisEndIssue": 2154,
       "analysisStartIssue": 2055,
       "game": "loto6",
-      "mirroredAt": "2026-11-15T20:40:22Z",
+      "mirroredAt": "2026-11-15T21:20:23Z",
       "predictions": [
         {
           "label": "A",
@@ -66,7 +66,7 @@
       "scheduleVerification": "UNOFFICIAL_ESTIMATE",
       "schemaVersion": 1,
       "sixChecksComplete": true,
-      "sourceCheckedAt": "2026-11-15T20:30:28.296Z",
+      "sourceCheckedAt": "2026-11-15T21:00:27.820Z",
       "status": "SUCCESS",
       "targetDrawDate": "2026-11-16",
       "targetIssue": 2155,
@@ -77,7 +77,7 @@
       "analysisEndIssue": 703,
       "analysisStartIssue": 604,
       "game": "loto7",
-      "mirroredAt": "2026-11-15T20:40:22Z",
+      "mirroredAt": "2026-11-15T21:20:23Z",
       "predictions": [
         {
           "label": "A",
@@ -144,7 +144,7 @@
       "scheduleVerification": "UNOFFICIAL_ESTIMATE",
       "schemaVersion": 1,
       "sixChecksComplete": true,
-      "sourceCheckedAt": "2026-11-15T20:30:32.649Z",
+      "sourceCheckedAt": "2026-11-15T21:00:32.280Z",
       "status": "SUCCESS",
       "targetDrawDate": "2026-11-20",
       "targetIssue": 704,
@@ -152,6 +152,6 @@
       "verified100": true
     }
   },
-  "mirroredAt": "2026-11-15T20:40:22Z",
+  "mirroredAt": "2026-11-15T21:20:23Z",
   "schemaVersion": 1
 }
