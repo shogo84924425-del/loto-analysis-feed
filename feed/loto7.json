@@ -2,7 +2,7 @@
   "analysisEndIssue": 703,
   "analysisStartIssue": 604,
   "game": "loto7",
-  "mirroredAt": "2026-11-17T20:55:29Z",
+  "mirroredAt": "2026-11-17T21:56:22Z",
   "predictions": [
     {
       "label": "A",
@@ -69,7 +69,7 @@
   "scheduleVerification": "UNOFFICIAL_ESTIMATE",
   "schemaVersion": 1,
   "sixChecksComplete": true,
-  "sourceCheckedAt": "2026-11-17T20:45:33.651Z",
+  "sourceCheckedAt": "2026-11-17T21:00:33.095Z",
   "status": "SUCCESS",
   "targetDrawDate": "2026-11-20",
   "targetIssue": 704,
