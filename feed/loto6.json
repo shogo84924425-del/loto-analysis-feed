@@ -2,7 +2,7 @@
   "analysisEndIssue": 2156,
   "analysisStartIssue": 2057,
   "game": "loto6",
-  "mirroredAt": "2026-11-21T12:22:43Z",
+  "mirroredAt": "2026-11-21T20:42:44Z",
   "predictions": [
     {
       "label": "A",
@@ -64,7 +64,7 @@
   "scheduleVerification": "UNOFFICIAL_ESTIMATE",
   "schemaVersion": 1,
   "sixChecksComplete": true,
-  "sourceCheckedAt": "2026-11-21T12:00:27.928Z",
+  "sourceCheckedAt": "2026-11-21T20:30:28.224Z",
   "status": "SUCCESS",
   "targetDrawDate": "2026-11-23",
   "targetIssue": 2157,
