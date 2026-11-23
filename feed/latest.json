@@ -3,7 +3,7 @@
     "loto6": {
       "error": "WORKER_UNAVAILABLE_OR_FAILED",
       "game": "loto6",
-      "mirroredAt": "2026-11-23T12:38:04Z",
+      "mirroredAt": "2026-11-23T20:54:01Z",
       "predictions": [],
       "schemaVersion": 1,
       "sourceHttpStatus": 503,
@@ -13,7 +13,7 @@
       "analysisEndIssue": 704,
       "analysisStartIssue": 605,
       "game": "loto7",
-      "mirroredAt": "2026-11-23T12:38:04Z",
+      "mirroredAt": "2026-11-23T20:54:01Z",
       "predictions": [
         {
           "label": "A",
@@ -80,7 +80,7 @@
       "scheduleVerification": "UNOFFICIAL_ESTIMATE",
       "schemaVersion": 1,
       "sixChecksComplete": true,
-      "sourceCheckedAt": "2026-11-23T12:00:31.756Z",
+      "sourceCheckedAt": "2026-11-23T20:45:34.926Z",
       "status": "SUCCESS",
       "targetDrawDate": "2026-11-27",
       "targetIssue": 705,
@@ -88,6 +88,6 @@
       "verified100": true
     }
   },
-  "mirroredAt": "2026-11-23T12:38:04Z",
+  "mirroredAt": "2026-11-23T20:54:01Z",
   "schemaVersion": 1
 }
