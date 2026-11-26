@@ -1,9 +1,73 @@
 {
-  "error": "WORKER_UNAVAILABLE_OR_FAILED",
+  "analysisEndIssue": 2158,
+  "analysisStartIssue": 2059,
   "game": "loto6",
-  "mirroredAt": "2026-11-26T03:30:44Z",
-  "predictions": [],
+  "mirroredAt": "2026-11-26T20:30:15Z",
+  "predictions": [
+    {
+      "label": "A",
+      "numbers": [
+        1,
+        8,
+        18,
+        26,
+        37,
+        43
+      ]
+    },
+    {
+      "label": "B",
+      "numbers": [
+        5,
+        18,
+        20,
+        27,
+        35,
+        42
+      ]
+    },
+    {
+      "label": "C",
+      "numbers": [
+        2,
+        6,
+        19,
+        21,
+        28,
+        41
+      ]
+    },
+    {
+      "label": "D",
+      "numbers": [
+        11,
+        13,
+        16,
+        23,
+        30,
+        38
+      ]
+    },
+    {
+      "label": "E",
+      "numbers": [
+        3,
+        12,
+        17,
+        24,
+        31,
+        34
+      ]
+    }
+  ],
+  "purchaseCutoffOfficiallyVerified": false,
+  "scheduleVerification": "UNOFFICIAL_ESTIMATE",
   "schemaVersion": 1,
-  "sourceHttpStatus": 503,
-  "status": "FAILED"
+  "sixChecksComplete": true,
+  "sourceCheckedAt": "2026-11-26T20:15:27.790Z",
+  "status": "SUCCESS",
+  "targetDrawDate": "2026-11-30",
+  "targetIssue": 2159,
+  "verificationLevel": "SECONDARY_CROSSCHECK_100",
+  "verified100": true
 }
