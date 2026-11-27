@@ -4,7 +4,7 @@
       "analysisEndIssue": 2158,
       "analysisStartIssue": 2059,
       "game": "loto6",
-      "mirroredAt": "2026-11-27T03:36:51Z",
+      "mirroredAt": "2026-11-27T20:16:50Z",
       "predictions": [
         {
           "label": "A",
@@ -66,7 +66,7 @@
       "scheduleVerification": "UNOFFICIAL_ESTIMATE",
       "schemaVersion": 1,
       "sixChecksComplete": true,
-      "sourceCheckedAt": "2026-11-27T03:00:27.335Z",
+      "sourceCheckedAt": "2026-11-27T20:15:28.089Z",
       "status": "SUCCESS",
       "targetDrawDate": "2026-11-30",
       "targetIssue": 2159,
@@ -74,69 +74,69 @@
       "verified100": true
     },
     "loto7": {
-      "analysisEndIssue": 704,
-      "analysisStartIssue": 605,
+      "analysisEndIssue": 705,
+      "analysisStartIssue": 606,
       "game": "loto7",
-      "mirroredAt": "2026-11-27T03:36:51Z",
+      "mirroredAt": "2026-11-27T20:16:50Z",
       "predictions": [
         {
           "label": "A",
           "numbers": [
-            6,
-            9,
-            12,
-            20,
+            5,
+            7,
+            10,
             22,
-            29,
-            36
+            24,
+            31,
+            34
           ]
         },
         {
           "label": "B",
           "numbers": [
             1,
-            10,
+            9,
             12,
-            22,
-            23,
-            25,
-            35
+            13,
+            31,
+            34,
+            36
           ]
         },
         {
           "label": "C",
           "numbers": [
-            8,
-            15,
-            16,
-            18,
-            21,
-            26,
-            31
+            3,
+            4,
+            14,
+            17,
+            28,
+            29,
+            30
           ]
         },
         {
           "label": "D",
           "numbers": [
-            4,
-            7,
-            14,
-            23,
-            24,
-            34,
+            6,
+            15,
+            16,
+            18,
+            21,
+            33,
             37
           ]
         },
         {
           "label": "E",
           "numbers": [
-            5,
-            9,
-            17,
+            8,
+            13,
             19,
-            28,
-            30,
-            33
+            20,
+            25,
+            26,
+            28
           ]
         }
       ],
@@ -144,14 +144,14 @@
       "scheduleVerification": "UNOFFICIAL_ESTIMATE",
       "schemaVersion": 1,
       "sixChecksComplete": true,
-      "sourceCheckedAt": "2026-11-27T03:00:31.938Z",
+      "sourceCheckedAt": "2026-11-27T20:15:32.784Z",
       "status": "SUCCESS",
-      "targetDrawDate": "2026-11-27",
-      "targetIssue": 705,
+      "targetDrawDate": "2026-12-04",
+      "targetIssue": 706,
       "verificationLevel": "SECONDARY_CROSSCHECK_100",
       "verified100": true
     }
   },
-  "mirroredAt": "2026-11-27T03:36:51Z",
+  "mirroredAt": "2026-11-27T20:16:50Z",
   "schemaVersion": 1
 }
